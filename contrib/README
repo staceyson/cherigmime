@@ -1,0 +1,3 @@
+gmime-2.6.18 with the FreeBSD port patches should be installed in this directory:
+
+% git clone https://github.com/staceyson/gmime-2.6.git
